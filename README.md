@@ -20,7 +20,11 @@ Save and load your game data conveniently using the provided options.
 
 # Dependencies:
 Tkinter
+
 configparser
+
 PIL (Python Imaging Library)
+
 requests
+
 urllib
